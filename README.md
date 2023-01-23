@@ -1,25 +1,18 @@
-### Hi there 👋
+#<b>Qapla</b>
 
-<!--
-**Brunosill/Brunosill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://devicon.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://devicon.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>   <a href="https://devicon.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunosill&show_icons=true&locale=en&layout=compact" alt="brunosill" /></p>
+<p>Estou construindo conhecimento na areia de dados, criando uma base solida em análise, engenharia e ciência de dados. Para assim construir uma careira solida na areia de ciência de dados.</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunosill&show_icons=true&locale=en" alt="brunosill" /></p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunosill&label=Profile%20views&color=0e75b6&style=flat" alt="brunosill" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunosill&label=Profile%20views&color=0e75b6&style=flat" alt="brunosill" /> 
+<a href="https://www.linkedin.com/in/brunoguedesdsilva/"><img src="https://tm.ibxk.com.br/2021/08/17/17104340644112.jpg" width="50" height="20"/>
+</p>
+
+
+
+<p><a href="https://www.credly.com/badges/d51f5726-8404-4d67-acd9-bbc39ac7b16d/public_url"><img src="https://images.credly.com/size/340x340/images/46defa53-a922-47bd-94ea-b43488f5cd8a/Data_Science_Methodology_Foundational.png" alt="html5" width="100" height="100"/></a>
+  <a href="https://www.credly.com/badges/41bccae3-3b63-494b-8a2f-09df6d66c5eb/public_url"><img src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" alt="html5" width="100" height="100"/></a>
+  <a href="https://www.credly.com/badges/71b6d94b-641f-4789-bb03-d7a287562d26/public_url"><img src="https://images.credly.com/size/340x340/images/fa8f130a-df8b-4b8a-9611-c3957d57ddce/NoSQL_Databases_Essentials.png" alt="html5" width="100" height="100"/></a>
+<a href="https://www.credly.com/badges/d0135a26-5781-4cdb-b06f-76502041abec/public_url"><img src="https://images.credly.com/size/340x340/images/04347a73-a04a-457e-b59a-5115dbcf2c18/Big_Data_with_Spark_and_Hadoop_Essentials.png" alt="html5" width="100" height="100"/></a>
+</p>
